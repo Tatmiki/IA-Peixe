@@ -1,0 +1,12 @@
+.venv
+
+data/dataset/*
+data/splits
+data/test_app
+data/*.csv
+
+trained_models
+
+referencias
+
+ui
