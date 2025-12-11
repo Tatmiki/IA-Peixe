@@ -1,9 +1,12 @@
 .venv
+.env
 
 data/dataset/*
 data/splits
 data/test_app
-data/*.csv
+data/faiss_indexes
+data/*.db
+
 
 trained_models
 
